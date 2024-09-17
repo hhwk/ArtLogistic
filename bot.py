@@ -5,7 +5,7 @@ from datetime import datetime
 from deta import Deta
 
 #Привет ебана рот
-
+#1
 print('hello world')
 
 bot = telebot.TeleBot('6651595825:AAEVJU49UaQdiEm8EWGTc37Tl0PouCo0PQg')
