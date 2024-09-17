@@ -1,2 +1,2 @@
-telebot
-deta
+telebot==0.0.5
+deta==1.2.0
