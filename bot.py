@@ -7,6 +7,7 @@ from deta import Deta
 #Привет ебана рот
 
 print('hello world')
+
 bot = telebot.TeleBot('6651595825:AAEVJU49UaQdiEm8EWGTc37Tl0PouCo0PQg')
 deta = Deta("c0n8ymyprw2_CwMUwv7o9KNkeKG3tdFX4VNF7Zi3km1B")
 Users = deta.Base("Users")
